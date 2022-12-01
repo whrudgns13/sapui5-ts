@@ -27,7 +27,7 @@
 	"sap.ui5": {
 		"rootView": {
 			"viewName": "com.demo.view.App",
-			"type": "XML",
+			"type": "JS",
 			"async": true,
 			"id": "app"
 		},
